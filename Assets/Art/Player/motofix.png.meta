@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 5127d4fedeebb5e448f7821553532ab7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3164044597094752362
+    second: motofix_0
+  - first:
+      213: 2051608543494717917
+    second: motofix_1
+  - first:
+      213: -1746999844772975816
+    second: motofix_2
+  - first:
+      213: 5534642603575460853
+    second: motofix_3
+  - first:
+      213: 3455744972597296466
+    second: motofix_4
+  - first:
+      213: -1447369616021657657
+    second: motofix_5
+  - first:
+      213: -199578048857265194
+    second: motofix_6
+  - first:
+      213: 2164598335198948932
+    second: motofix_7
+  - first:
+      213: 5509431186626056574
+    second: motofix_8
+  - first:
+      213: -6381945267730148054
+    second: motofix_9
+  - first:
+      213: -1134263340078912244
+    second: motofix_10
+  - first:
+      213: -5197301294274946489
+    second: motofix_11
+  - first:
+      213: 95246349120496
+    second: motofix_12
+  - first:
+      213: 1661127466781885406
+    second: motofix_13
+  - first:
+      213: 5817949361065040379
+    second: motofix_14
+  - first:
+      213: 4887748477931995727
+    second: motofix_15
+  - first:
+      213: -2841404654286908036
+    second: motofix_16
+  - first:
+      213: 4511406795928607449
+    second: motofix_17
+  - first:
+      213: -2960705575605593666
+    second: motofix_18
+  - first:
+      213: -4805510048564879373
+    second: motofix_19
+  - first:
+      213: 4589944691290595319
+    second: motofix_20
+  - first:
+      213: 3706526774504999714
+    second: motofix_21
+  - first:
+      213: 6195524599150761912
+    second: motofix_22
+  - first:
+      213: -4943766192937684844
+    second: motofix_23
+  - first:
+      213: -230157234573190538
+    second: motofix_24
+  - first:
+      213: 6903450995623412789
+    second: motofix_25
+  - first:
+      213: 5418345972597054725
+    second: motofix_26
+  - first:
+      213: -278396576357454872
+    second: motofix_27
+  - first:
+      213: 7210526191091579004
+    second: motofix_28
+  - first:
+      213: 2145897795760001647
+    second: motofix_29
+  - first:
+      213: -8577637915073147540
+    second: motofix_30
+  - first:
+      213: -8265305255478311699
+    second: motofix_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motofix_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 11
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a3571cc1f8eb20800000000000000
+      internalID: 3164044597094752362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c825b917c87c10800000000000000
+      internalID: 2051608543494717917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 11
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83be4ada5e861c7e0800000000000000
+      internalID: -1746999844772975816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 11
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3cbd8cf100fcc40800000000000000
+      internalID: 5534642603575460853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 11
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df0064eb545ff20800000000000000
+      internalID: 3455744972597296466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 11
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7e552b009e9ebe0800000000000000
+      internalID: -1447369616021657657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 11
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba5ec62d4fa3df0800000000000000
+      internalID: -199578048857265194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 11
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6fe2a7b23a0e10800000000000000
+      internalID: 2164598335198948932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 11
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711e49597e657c40800000000000000
+      internalID: 5509431186626056574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2595fc8796ce67a0800000000000000
+      internalID: -6381945267730148054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_10
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d29d470894240f0800000000000000
+      internalID: -1134263340078912244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_11
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a5014620a7fd7b0800000000000000
+      internalID: -5197301294274946489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_12
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f33ec440a6500000800000000000000
+      internalID: 95246349120496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_13
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3cd2841a28d0710800000000000000
+      internalID: 1661127466781885406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_14
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91e7b7e128db050800000000000000
+      internalID: 5817949361065040379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_15
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42c7922855c4d340800000000000000
+      internalID: 4887748477931995727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_16
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 11
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755616758d4198d0800000000000000
+      internalID: -2841404654286908036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 11
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da9b94149cbb9e30800000000000000
+      internalID: 4511406795928607449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_18
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 11
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9928927f579e6d0800000000000000
+      internalID: -2960705575605593666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_19
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 11
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff58be42166f4db0800000000000000
+      internalID: -4805510048564879373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_20
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 11
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd01fc062c2bf30800000000000000
+      internalID: 4589944691290595319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_21
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 11
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b48d0a67a307330800000000000000
+      internalID: 3706526774504999714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_22
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b753913ccceaf550800000000000000
+      internalID: 6195524599150761912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_23
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903d5937d6346bb0800000000000000
+      internalID: -4943766192937684844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_24
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 11
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a57cee6315eccf0800000000000000
+      internalID: -230157234573190538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_25
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 11
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534437eba1cfdcf50800000000000000
+      internalID: 6903450995623412789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_26
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 11
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd0d654f4d13b40800000000000000
+      internalID: 5418345972597054725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_27
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 11
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb678fe9cfe22cf0800000000000000
+      internalID: -278396576357454872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_28
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 11
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78f9a72e5fe01460800000000000000
+      internalID: 7210526191091579004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_29
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 11
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6291900da2c7cd10800000000000000
+      internalID: 2145897795760001647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_30
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 11
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d842433cb16f880800000000000000
+      internalID: -8577637915073147540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motofix_31
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 11
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4cb0f59acbb4d80800000000000000
+      internalID: -8265305255478311699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motofix_0: 3164044597094752362
+      motofix_1: 2051608543494717917
+      motofix_10: -1134263340078912244
+      motofix_11: -5197301294274946489
+      motofix_12: 95246349120496
+      motofix_13: 1661127466781885406
+      motofix_14: 5817949361065040379
+      motofix_15: 4887748477931995727
+      motofix_16: -2841404654286908036
+      motofix_17: 4511406795928607449
+      motofix_18: -2960705575605593666
+      motofix_19: -4805510048564879373
+      motofix_2: -1746999844772975816
+      motofix_20: 4589944691290595319
+      motofix_21: 3706526774504999714
+      motofix_22: 6195524599150761912
+      motofix_23: -4943766192937684844
+      motofix_24: -230157234573190538
+      motofix_25: 6903450995623412789
+      motofix_26: 5418345972597054725
+      motofix_27: -278396576357454872
+      motofix_28: 7210526191091579004
+      motofix_29: 2145897795760001647
+      motofix_3: 5534642603575460853
+      motofix_30: -8577637915073147540
+      motofix_31: -8265305255478311699
+      motofix_4: 3455744972597296466
+      motofix_5: -1447369616021657657
+      motofix_6: -199578048857265194
+      motofix_7: 2164598335198948932
+      motofix_8: 5509431186626056574
+      motofix_9: -6381945267730148054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

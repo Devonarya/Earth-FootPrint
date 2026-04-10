@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 4bdafa0d794f9204e88d681e05ffb401
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5648995133391107957
+    second: runningfix_0
+  - first:
+      213: 5635326045758073056
+    second: runningfix_1
+  - first:
+      213: 4229769638663915393
+    second: runningfix_2
+  - first:
+      213: 1362924350085084758
+    second: runningfix_3
+  - first:
+      213: -355533474222572297
+    second: runningfix_4
+  - first:
+      213: 8096090175793632029
+    second: runningfix_5
+  - first:
+      213: 7799904424373152776
+    second: runningfix_6
+  - first:
+      213: -5673019430413612069
+    second: runningfix_7
+  - first:
+      213: 8587037298171993150
+    second: runningfix_8
+  - first:
+      213: 1235958484345880143
+    second: runningfix_9
+  - first:
+      213: -8458796117013243419
+    second: runningfix_10
+  - first:
+      213: -8229052999699958748
+    second: runningfix_11
+  - first:
+      213: -1847633981319854813
+    second: runningfix_12
+  - first:
+      213: -2205795698738758622
+    second: runningfix_13
+  - first:
+      213: -1718210932432289563
+    second: runningfix_14
+  - first:
+      213: 8215134939044703788
+    second: runningfix_15
+  - first:
+      213: 1925739438105049270
+    second: runningfix_16
+  - first:
+      213: 4561507086062659357
+    second: runningfix_17
+  - first:
+      213: 5369254728692025181
+    second: runningfix_18
+  - first:
+      213: -7489367363797354132
+    second: runningfix_19
+  - first:
+      213: -5337829344991921279
+    second: runningfix_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: runningfix_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577ffa7e423456e40800000000000000
+      internalID: 5648995133391107957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8aaee6e23b43e40800000000000000
+      internalID: 5635326045758073056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878b4a731923ba30800000000000000
+      internalID: 4229769638663915393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563d8ea9741ae210800000000000000
+      internalID: 1362924350085084758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcf33b5034e01bf0800000000000000
+      internalID: -355533474222572297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 11
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1395b5be171b5070800000000000000
+      internalID: 8096090175793632029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 17
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c62c09fb3de3c60800000000000000
+      internalID: 7799904424373152776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 21
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbce4e82e26541b0800000000000000
+      internalID: -5673019430413612069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 11
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c52963de84b2770800000000000000
+      internalID: 8587037298171993150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 11
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ef09071b1072110800000000000000
+      internalID: 1235958484345880143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 18
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d8f98fb15c9a80800000000000000
+      internalID: -8458796117013243419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 11
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424750b65e78ccd80800000000000000
+      internalID: -8229052999699958748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3254d74eea2eb56e0800000000000000
+      internalID: -1847633981319854813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_13
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 11
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7791bf707361e0800000000000000
+      internalID: -2205795698738758622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e04e2ba240b728e0800000000000000
+      internalID: -1718210932432289563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 11
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee8af83b5020270800000000000000
+      internalID: 8215134939044703788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_16
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b83632e0d999ba10800000000000000
+      internalID: 1925739438105049270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_17
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 11
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d172131e68abd4f30800000000000000
+      internalID: 4561507086062659357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57464c6abc638a40800000000000000
+      internalID: 5369254728692025181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_19
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 14
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697470201c601890800000000000000
+      internalID: -7489367363797354132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningfix_20
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 14
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bb914ed783ce5b0800000000000000
+      internalID: -5337829344991921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      runningfix_0: 5648995133391107957
+      runningfix_1: 5635326045758073056
+      runningfix_10: -8458796117013243419
+      runningfix_11: -8229052999699958748
+      runningfix_12: -1847633981319854813
+      runningfix_13: -2205795698738758622
+      runningfix_14: -1718210932432289563
+      runningfix_15: 8215134939044703788
+      runningfix_16: 1925739438105049270
+      runningfix_17: 4561507086062659357
+      runningfix_18: 5369254728692025181
+      runningfix_19: -7489367363797354132
+      runningfix_2: 4229769638663915393
+      runningfix_20: -5337829344991921279
+      runningfix_3: 1362924350085084758
+      runningfix_4: -355533474222572297
+      runningfix_5: 8096090175793632029
+      runningfix_6: 7799904424373152776
+      runningfix_7: -5673019430413612069
+      runningfix_8: 8587037298171993150
+      runningfix_9: 1235958484345880143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
